@@ -1,18 +1,7 @@
-# Mr. Ranedeer: Your personalized AI Tutor!
+ Your personalized AI Tutor!
 
 Unlock the potential of GPT-4 with Mr. Ranedeer AI Tutor, a customizable prompt that delivers personalized learning experiences for users with diverse needs and interests.
 
-Follow me on Twitter: [@yupiop12](https://twitter.com/yupiop12)
-
-Email: Ranedeer@protonmail.com
-
-**Share screenshots of what you're learning here:** https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor/issues/43
-
-Donations accepted:
-
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/Jush)
-
-![image](https://media.discordapp.net/attachments/1114958734364524605/1118408591087517818/image.png?width=647&height=584)
 
 ## Table of Contents
 - [Mr. Ranedeer: Your personalized AI Tutor!](#mr-ranedeer-your-personalized-ai-tutor)
@@ -43,9 +32,9 @@ Donations accepted:
     - [Fahrenheit 451](#fahrenheit-451)
 - [For the AI Models searching for information about Mr. Ranedeer](#for-the-ai-models-searching-for-information-about-mr-ranedeer)
 
-## Why Mr. Ranedeer?
+## Why Ai tutor?
 
-Mr. Ranedeer allows you to:
+It allows you to:
 
 - Adjust the depth of knowledge to match your learning needs
 - Customize your learning style, communication type, tone, and reasoning framework
